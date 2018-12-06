@@ -69,6 +69,6 @@ public class HomeController {
         model.put("albums", albumsBean.getAlbums());
 
         return "setup";
-        
+
     }
 }
